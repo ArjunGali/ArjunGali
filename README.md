@@ -1,74 +1,214 @@
 
+<!-- ═══════════════════════════════════════════════════════
+     ARJUN GALI — CYBERPUNK PROFILE README
+     Repository: ArjunGali/ArjunGali
+     ═══════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090b,50:4c1d95,100:ef4444&height=220&section=header&text=ARJUN%20GALI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%7C%20GAME%20DEVELOPMENT&descAlignY=60&descSize=17" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050505,45:25070d,75:9b1028,100:ff334f&text=ARJUN%20GALI&fontColor=ffffff&fontSize=65&fontAlignY=42&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20GAME%20DEVELOPMENT%20%20%E2%80%A2%20%20CREATIVE%20TECH&descSize=14&descAlignY=63&animation=fadeIn" alt="Arjun Gali cyberpunk profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+applications;Exploring+AI%2C+ML+%26+Data+Science;Turning+ideas+into+working+projects" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=FF435F&center=true&vCenter=true&width=750&height=50&lines=%3E+Building+intelligent+systems...;%3E+Engineering+AI-powered+experiences...;%3E+Creating+immersive+digital+worlds...;%3E+Turning+ideas+into+reality._" alt="Animated developer introduction"/>
+
+<br/>
+
+<a href="https://github.com/ArjunGali">
+  <img src="https://img.shields.io/badge/GITHUB-ARJUNGALI-ff334f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/ArjunGali?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-171717?style=for-the-badge&logo=github&logoColor=ff435f" alt="Explore projects"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+<!-- ───────────────── STATUS PANEL ───────────────── -->
 
-I'm Arjun, an aspiring AI/ML developer with a background in game development.
+## `01` / SYSTEM PROFILE
 
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🧠 Building RAG applications and AI-powered tools
-- 🎮 Experienced with Unreal Engine and Blender
-- 💻 Learning Python, SQL and practical ML workflows
-- 🚀 Focused on building useful, real-world projects
+```text
+╭────────────────────────────────────────────────────────╮
+│  USER       : ARJUN GALI                               │
+│  IDENTITY   : AI/ML + GAME DEVELOPMENT                 │
+│  MODE       : LEARN  /  BUILD  /  ITERATE              │
+│  INTERESTS  : INTELLIGENT SYSTEMS + IMMERSIVE WORLDS   │
+│  OBJECTIVE  : TURN COMPLEX IDEAS INTO USEFUL PRODUCTS  │
+╰────────────────────────────────────────────────────────╯
+```
 
-## 🛠️ Tech Stack
+I'm an aspiring AI/ML developer with a background in game development. I enjoy experimenting with AI-powered applications, retrieval-augmented generation, interactive experiences, and creative technology.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+I bring together two worlds: **building intelligent software** and **creating immersive digital experiences**.
 
-## 🚀 Featured Projects
+- `01` — Exploring AI, machine learning and data science.
+- `02` — Building RAG applications and knowledge assistants.
+- `03` — Developing creative experiences with Unreal Engine and Blender.
+- `04` — Improving my Python, SQL and software engineering skills.
+- `05` — Learning by building, experimenting and shipping projects.
 
-### 🧠 KnowledgePilot
-An AI-powered knowledge assistant using retrieval-augmented generation.
+<br/>
 
-**Technologies:** LangChain · Qdrant · OpenRouter · Vite
+<!-- ───────────────── PROJECTS ───────────────── -->
 
-[View Repository](https://github.com/ArjunGali/KnowledgePilot)
+## `02` / SELECTED OPERATIONS
 
-### 🎵 Musicano
-An AI-powered music app concept exploring personalized music discovery and intelligent music assistance.
+*Three projects. Different ideas. One continuous learning process.*
 
-[View Repository](https://github.com/ArjunGali/Musicano)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 RAG Agent
-An experimental AI assistant for retrieving information from supplied knowledge sources.
+### ◈ KnowledgePilot
 
-[View Repository](https://github.com/ArjunGali/RAG-Agent)
+**AI KNOWLEDGE ASSISTANT**
 
----
+A retrieval-augmented generation project designed to help users ask questions about supplied knowledge sources.
 
-## 📊 GitHub Statistics
+`RAG` `LangChain` `Qdrant` `OpenRouter` `Vite`
+
+<a href="https://github.com/ArjunGali/KnowledgePilot">
+  <img src="https://img.shields.io/badge/ACCESS_PROJECT-ff334f?style=for-the-badge&logo=github&logoColor=white" alt="Open KnowledgePilot"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Musicano
+
+**AI-POWERED MUSIC EXPERIENCE**
+
+A music app concept exploring personalized discovery, mood-based playlists and an intelligent music assistant.
+
+`AI CONCEPT` `MUSIC` `PRODUCT DESIGN`
+
+<a href="https://github.com/ArjunGali/Musicano">
+  <img src="https://img.shields.io/badge/ACCESS_PROJECT-ff334f?style=for-the-badge&logo=github&logoColor=white" alt="Open Musicano"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ◈ RAG Agent
+
+**EXPERIMENTAL AI WORKFLOW**
+
+An AI agent project exploring retrieval-augmented responses and knowledge-grounded assistance.
+
+`AI` `RETRIEVAL` `LLM WORKFLOWS`
+
+<a href="https://github.com/ArjunGali/RAG-Agent">
+  <img src="https://img.shields.io/badge/ACCESS_PROJECT-ff334f?style=for-the-badge&logo=github&logoColor=white" alt="Open RAG Agent"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunGali&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunGali&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=ArjunGali&theme=tokyonight&hide_border=true" width="70%" />
+<a href="https://github.com/ArjunGali?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=ff435f" alt="View all repositories"/>
+</a>
 
 </div>
 
----
+<br/>
+
+<!-- ───────────────── TECH STACK ───────────────── -->
+
+## `03` / TECHNOLOGY MATRIX
 
 <div align="center">
 
-### 🤝 Let's Connect
+**LANGUAGES**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ArjunGali)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" alt="Python, C++, C and JavaScript"/>
 
-*Learning, building, and improving — one project at a time.*
+**AI / BACKEND / DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,git,github&theme=dark" alt="Node.js, Express, FastAPI, Git and GitHub"/>
+
+**GAME DEVELOPMENT / 3D**
+
+<img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" alt="Unreal Engine and Blender"/>
+
+</div>
+
+**Currently exploring**
+
+- Machine learning fundamentals and practical model workflows.
+- Python and SQL for data processing and analysis.
+- Embeddings, vector search, RAG and LLM applications.
+- Software testing, APIs and reliable application design.
+
+<sub>Tool icons are visual references, not a claim of equal proficiency in every tool.</sub>
+
+<br/>
+
+<!-- ───────────────── ACTIVITY ───────────────── -->
+
+## `04` / GITHUB TELEMETRY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArjunGali&show_icons=true&hide_border=true&bg_color=08090c&title_color=ff435f&icon_color=ff435f&text_color=e5e7eb&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunGali&layout=compact&hide_border=true&bg_color=08090c&title_color=ff435f&text_color=e5e7eb&langs_count=8" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ArjunGali&hide_border=true&background=08090c&ring=ff435f&fire=ff334f&currStreakLabel=ff435f&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunGali&bg_color=08090c&color=e5e7eb&line=ff435f&point=ffffff&area=true&area_color=66101f&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub activity graph"/>
+
+</div>
+
+<br/>
+
+<!-- ───────────────── CURRENT MISSION ───────────────── -->
+
+## `05` / CURRENT MISSION
+
+```python
+class Arjun:
+    focus = [
+        "Artificial Intelligence & Machine Learning",
+        "Python, SQL & problem solving",
+        "RAG systems and AI applications",
+        "Unreal Engine & creative technology",
+    ]
+
+    philosophy = "Learn deeply. Build consistently. Improve always."
+```
+
+My goal is to keep turning what I learn into demonstrable projects, deepen my engineering fundamentals, and build technology that people can actually use.
+
+<br/>
+
+<!-- ───────────────── CONNECT ───────────────── -->
+
+## `06` / ESTABLISH CONNECTION
+
+<div align="center">
+
+<a href="https://github.com/ArjunGali">
+  <img src="https://img.shields.io/badge/GITHUB-ff334f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://github.com/ArjunGali?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-171717?style=for-the-badge&logo=github&logoColor=ff435f" alt="GitHub repositories"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff334f,45:55101d,100:050505&height=120&section=footer" alt="Red cyberpunk footer"/>
+
+<sub><b>END OF TRANSMISSION</b> &nbsp; // &nbsp; STILL BUILDING. STILL LEARNING.</sub>
 
 </div>

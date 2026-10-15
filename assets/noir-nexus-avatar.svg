@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
-<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c99b58"/><stop offset=".5" stop-color="#7d202d"/><stop offset="1" stop-color="#0b0b10"/></linearGradient><pattern id="p" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#ff365c" opacity=".5"/></pattern></defs>
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c99b58"/><stop offset=".5" stop-color="#7d202d"/><stop offset="1" stop-color="#0b0b10"/></linearGradient><pattern id="p" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#ff365c" opacity=".5"/></pattern><pattern id="plaid" width="38" height="38" patternUnits="userSpaceOnUse"><rect width="38" height="38" fill="#d8c5a2"/><path d="M0 7H38M0 29H38" stroke="#9a6b43" stroke-width="7" opacity=".85"/><path d="M9 0V38M30 0V38" stroke="#eee4d2" stroke-width="8"/><path d="M0 18H38M19 0V38" stroke="#5c4639" stroke-width="2" opacity=".9"/></pattern><clipPath id="c"><circle cx="200" cy="200" r="180"/></clipPath></defs>
 <rect width="400" height="400" rx="30" fill="#0b0b10"/><circle cx="200" cy="200" r="180" fill="url(#a)"/><circle cx="200" cy="200" r="180" fill="url(#p)"/>
-<path d="M48 350L120 246L178 220L230 232L292 280L352 400H48Z" fill="#09090d" stroke="#ff365c" stroke-width="5"/>
-<path d="M128 172L143 104L204 74L258 112L273 175L249 232L204 264L157 230Z" fill="#111018" stroke="#c99b58" stroke-width="5"/>
-<path d="M127 160L140 95L207 63L269 108L276 146L245 126L204 113L163 139Z" fill="#08080c" stroke="#ff365c" stroke-width="5"/>
-<path d="M153 172L184 161M219 161L248 172" stroke="#ff365c" stroke-width="7" stroke-linecap="round"/><path d="M184 205L211 210L199 226" fill="none" stroke="#c99b58" stroke-width="4"/>
-<text x="200" y="327" font-family="Georgia,serif" font-size="46" font-weight="900" text-anchor="middle" fill="#f1d39a">AG</text><path d="M40 42H118M40 42V120M360 280V358H282" fill="none" stroke="#ff365c" stroke-width="5"/>
+<g clip-path="url(#c)">
+<path d="M54 410L76 298L126 260L168 244L233 244L282 267L329 314L351 410Z" fill="url(#plaid)" stroke="#ff365c" stroke-width="5"/>
+<path d="M154 242L182 270L199 305L216 270L244 242L230 410H169Z" fill="#f8f3eb" stroke="#c99b58" stroke-width="3"/>
+<path d="M130 173L144 111L202 82L256 115L271 178L250 225L204 257L158 226Z" fill="#a96548" stroke="#c99b58" stroke-width="4"/>
+<path d="M128 163L140 101L204 67L266 107L277 145L247 126L204 111L163 137Z" fill="#09090d" stroke="#ff365c" stroke-width="5"/>
+<path d="M147 167L181 158M220 158L251 167" stroke="#181016" stroke-width="7" stroke-linecap="round"/><path d="M190 199L210 204L199 216" fill="none" stroke="#713d31" stroke-width="4"/><path d="M174 226Q202 242 230 220L222 239L201 250L180 239Z" fill="#211217" stroke="#c99b58" stroke-width="2"/>
+<path d="M151 185Q165 200 184 190M218 190Q238 200 251 182" fill="none" stroke="#211217" stroke-width="4"/>
+</g>
+<circle cx="200" cy="200" r="180" fill="none" stroke="#c99b58" stroke-width="4"/><path d="M40 42H118M40 42V120M360 280V358H282" fill="none" stroke="#ff365c" stroke-width="5"/>
 </svg>

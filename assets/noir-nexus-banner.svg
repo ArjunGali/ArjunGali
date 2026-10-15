@@ -4,17 +4,25 @@
 <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f2d59a"/><stop offset=".6" stop-color="#c99b58"/><stop offset="1" stop-color="#ff405c"/></linearGradient>
 <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e6b765"/><stop offset="1" stop-color="#ff405c"/></linearGradient>
 <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ff405c" opacity=".4"/></pattern>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="430" fill="url(#bg)"/><rect width="1200" height="430" fill="url(#dots)" opacity=".5"/>
 <path d="M0 0H380L260 430H0Z" fill="#110d0d"/><path d="M820 0H1200V430H690Z" fill="#11131d" opacity=".7"/>
 <circle cx="865" cy="145" r="106" fill="url(#sun)"/>
 <g stroke="#241016" stroke-width="9" opacity=".8"><path d="M760 120H970"/><path d="M765 148H965"/><path d="M780 176H950"/><path d="M800 202H930"/></g>
-<g fill="#10131c" stroke="#c99b58" stroke-width="1">
-<path d="M590 300V218H618V183H633V300Z"/><path d="M636 300V245H660V205H670V300Z"/><path d="M680 300V230H700V163H713V230H730V300Z"/><path d="M740 300V247H761V196H775V300Z"/><path d="M795 300V218H815V175H830V300Z"/><path d="M842 300V250H860V220H874V300Z"/><path d="M885 300V238H905V183H918V300Z"/><path d="M930 300V246H955V212H969V300Z"/><path d="M984 300V225H1006V194H1022V300Z"/><path d="M1040 300V248H1062V212H1078V300Z"/><path d="M1090 300V233H1110V181H1124V300Z"/><path d="M1137 300V253H1160V220H1178V300Z"/>
-</g>
-<path d="M430 430L500 340L560 316L608 332L655 294L700 316L755 285L810 316L855 302L915 430Z" fill="#07080b"/>
-<path d="M520 430L540 355L572 320L594 294L627 303L648 334L675 350L699 430Z" fill="#050609" stroke="#a82439" stroke-width="3"/>
-<path d="M575 320L560 278L574 242L605 226L633 244L642 274L628 304Z" fill="#07080b" stroke="#ff405c" stroke-width="3"/><path d="M576 258L594 236L623 242L639 265L618 255L598 263Z" fill="#17101a"/>
+<g fill="#10131c" stroke="#c99b58" stroke-width="1"><path d="M590 300V218H618V183H633V300Z"/><path d="M636 300V245H660V205H670V300Z"/><path d="M680 300V230H700V163H713V230H730V300Z"/><path d="M740 300V247H761V196H775V300Z"/><path d="M795 300V218H815V175H830V300Z"/><path d="M842 300V250H860V220H874V300Z"/><path d="M885 300V238H905V183H918V300Z"/><path d="M930 300V246H955V212H969V300Z"/><path d="M984 300V225H1006V194H1022V300Z"/><path d="M1040 300V248H1062V212H1078V300Z"/><path d="M1090 300V233H1110V181H1124V300Z"/><path d="M1137 300V253H1160V220H1178V300Z"/></g>
+<path d="M420 430L465 360L505 322L544 303L579 315L618 294L660 310L700 348L735 430Z" fill="#06070b" stroke="#ff304f" stroke-width="3" filter="url(#glow)"/>
+<!-- tailored black blazer figure, isolated against the existing banner -->
+<path d="M506 430L510 351L528 315L561 294L590 303L620 291L653 307L683 329L700 430Z" fill="#08090d" stroke="#ff304f" stroke-width="3"/>
+<path d="M553 297L574 278L612 280L641 300L626 344L598 370L568 341Z" fill="#f0e8dd" stroke="#ff405c" stroke-width="2"/>
+<path d="M577 280L596 302L616 281L632 311L619 363L596 384L572 361L559 311Z" fill="#111117" stroke="#c99b58" stroke-width="2"/>
+<path d="M594 302L599 302L607 352L600 376L592 352Z" fill="#e8dfd2"/>
+<path d="M553 299L526 320L503 379L518 399L544 356L559 336L572 430H625L641 336L661 359L682 401L697 383L675 320L641 299L620 322L599 306L576 322Z" fill="#08090d" stroke="#ff304f" stroke-width="3" stroke-linejoin="round"/>
+<path d="M576 322L594 350L581 430H551L559 360Z M620 322L605 350L620 430H650L638 360Z" fill="#111018" stroke="#a82439" stroke-width="2"/>
+<path d="M578 322L596 350L614 322" fill="none" stroke="#c99b58" stroke-width="2"/>
+<path d="M571 292L564 267L572 239L591 222L616 229L634 250L628 276L613 296L593 302Z" fill="#9a573c" stroke="#ff405c" stroke-width="3"/>
+<path d="M566 261L568 238L589 217L615 220L635 244L630 255L615 240L593 238L576 255Z" fill="#08090d" stroke="#ff405c" stroke-width="3"/>
+<path d="M582 267L593 269M610 267L620 264" stroke="#21151a" stroke-width="3" stroke-linecap="round"/><path d="M593 283L605 286L599 292" fill="none" stroke="#3b1b20" stroke-width="2"/>
 <path d="M398 50L430 70L414 98L450 118L420 145L438 166L394 176L405 208L370 198L354 224L337 192L308 206L322 169L291 151L330 136L315 110L351 113L363 79Z" fill="#ff304f" opacity=".9"/>
 <path d="M1050 30L1078 52L1065 76L1102 83L1084 110L1114 128L1076 142L1082 173L1047 160L1027 187L1016 155L984 160L1001 130L977 111L1012 102L1008 73L1036 83Z" fill="#7b35a6" opacity=".65"/>
 <text x="62" y="166" font-family="Georgia,serif" font-size="84" font-weight="900" letter-spacing="-4" fill="url(#gold)" stroke="#160b0b" stroke-width="2">ARJUN</text>
